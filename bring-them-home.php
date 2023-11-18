@@ -78,6 +78,4 @@ function bth_plugin_load_textdomain() {
 
 }
 
-
 add_action( 'init', 'bth_plugin_load_textdomain' );
-
