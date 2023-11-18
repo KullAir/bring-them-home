@@ -16,6 +16,7 @@
     font-size:14px;
 
     position: fixed;
+    z-index: 10000;
     
     bottom:15px;
     right:15px;
@@ -60,6 +61,7 @@
     border-radius: 8px 0 0 8px;
     border:1px solid var(--bth-half-white);
     position: fixed;
+    z-index: 10000;
     bottom:15px;
     right:0; /*-2rem*/;
     width:2rem;
